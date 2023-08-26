@@ -138,6 +138,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
+      propertyPath: far clip plane
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
       propertyPath: m_TargetTexture
       value: 
       objectReference: {fileID: 8400000, guid: 021cf893f54439d459724ab414afd262, type: 2}
@@ -465,6 +470,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
+      propertyPath: far clip plane
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
       propertyPath: m_TargetTexture
       value: 
       objectReference: {fileID: 8400000, guid: fc718bfb0dda7e6418db798e269daaba, type: 2}
@@ -789,6 +799,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
+      propertyPath: far clip plane
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
       propertyPath: m_TargetTexture
       value: 
       objectReference: {fileID: 8400000, guid: 2632f699d99f34549bed528554b5734f, type: 2}
@@ -883,6 +898,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
+      propertyPath: far clip plane
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
       propertyPath: m_TargetTexture
       value: 
       objectReference: {fileID: 8400000, guid: 6ee66273e25c242438a1cde6583694b2, type: 2}
@@ -974,6 +994,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AllowXRRendering
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
+      propertyPath: far clip plane
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
@@ -1106,6 +1131,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
+      propertyPath: far clip plane
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
       propertyPath: m_TargetTexture
       value: 
       objectReference: {fileID: 8400000, guid: 0ca47e63b1cf6704b85648583b4bd481, type: 2}
@@ -1200,6 +1230,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
+      propertyPath: far clip plane
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
       propertyPath: m_TargetTexture
       value: 
       objectReference: {fileID: 8400000, guid: c0106eb53fcbae34b929ba1fd8341148, type: 2}
@@ -1291,6 +1326,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AllowXRRendering
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
+      propertyPath: far clip plane
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
@@ -1591,6 +1631,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AllowXRRendering
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6189603475101720270, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
+        type: 3}
+      propertyPath: far clip plane
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6189603476831359770, guid: 5640e237c89fbf84bbf25c77e92a6c0a,
         type: 3}
